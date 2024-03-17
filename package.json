@@ -1,0 +1,17 @@
+{
+  "name": "daksh-dobby",
+  "version": "1.0.0",
+  "description": "Assignment from dobby ads",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dobby",
+    "Ads",
+    "File",
+    "Upload"
+  ],
+  "author": "Daksh Dhama",
+  "license": "ISC"
+}
