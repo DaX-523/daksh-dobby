@@ -1,0 +1,11 @@
+.logout {
+  width: 16px;
+  position: absolute;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  top: 10px;
+  right: 10px;
+}
